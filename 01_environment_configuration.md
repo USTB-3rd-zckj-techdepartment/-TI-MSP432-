@@ -19,13 +19,10 @@ simplelink_msp432p4_sdk_3_40_01_02
 
 #include 
 怎么配置呢，Alt+Enter 进入工程的属性设置
-<<<<<<< HEAD
-![]([link](https://github.com/USTB-3rd-zckj-techdepartment/-TI-MSP432-/blob/main/picture/%E7%8E%AF%E5%A2%83%E9%85%8D%E7%BD%AE1.jpg))
-![]([link](https://github.com/USTB-3rd-zckj-techdepartment/-TI-MSP432-/blob/main/picture/%E7%8E%AF%E5%A2%83%E9%85%8D%E7%BD%AE2.jpg))
-=======
-![](link)
-![](link)
->>>>>>> main
+
+![]([link](https://github.com/USTB-3rd-zckj-techdepartment/-TI-MSP432-/blob/main/picture/environment_configuration_1.jpg)
+![]([link](https://github.com/USTB-3rd-zckj-techdepartment/-TI-MSP432-/blob/main/picture/environment_configuration_2.jpg)
+
 
  ​
 最后把路径修改到你的SDK 安装路径下的source文件夹
